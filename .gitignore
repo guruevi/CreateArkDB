@@ -1,0 +1,5 @@
+# Things downloaded by scrapy
+/items/
+# PyCharm
+/.idea/workspace.xml
+/.idea/dbnavigator.xml
